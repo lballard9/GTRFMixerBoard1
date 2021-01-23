@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Eval-Board-rescue)(type Legacy)(uri "${KIPRJMOD}/Eval Board-rescue.lib")(options "")(descr ""))
+)
